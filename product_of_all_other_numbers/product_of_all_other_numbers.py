@@ -39,3 +39,9 @@ if __name__ == '__main__':
 # well need to loop over the arr
 # create a copy of the array in the loop that excludes the current index
 # multiply each value by all other values... another for loop?
+
+# EXECUTE
+# see code above
+
+# REFLECT
+# I should try to do it without a nested for loop
